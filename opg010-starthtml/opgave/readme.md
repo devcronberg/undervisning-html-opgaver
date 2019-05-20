@@ -23,7 +23,7 @@ Du skal:
 
 ---
 
-## CSS
+## Hvis du vil prøve CSS...
 
 - Tilret nu h1-opmærkningen så den har en attribut kaldet "class" med en værdi på "ov" (class="ov")
 - Opret en ny fil i samme mappe kaldet style.css
@@ -44,7 +44,7 @@ Du skal:
 - Efter en reload skulle overskriften gerne blive rød
   - Ser det ok ud?
 
-## JavaScript
+## Hvis du vil prøve JavaScript...
 
 - Tilret p-opmærkning så den har en "id"-attribut med værdien "minP" (id="minP")
 - Opret en ny fil i mappen kaldet app.js med følgende indhold:
