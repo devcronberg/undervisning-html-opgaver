@@ -11,4 +11,4 @@ Her kan du øve dig lidt i billeder og links
     - Det sidste billede skal også være et link til billedet på pixabay
 - Tilføj en p-opmærkning med teksten "Billeder er fra Pixabay" hvor ordet Pixabay skal være et link til [Pixabay](https://pixabay.com)
 
-Brug Live-server til at se resultatet, og se eventuelt [min løsning](index.html).
+HUSK - siden skal kunne valideres mod W3C. Brug Live-server til at se resultatet, og se eventuelt [min løsning](index.html).
