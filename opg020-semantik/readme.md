@@ -27,7 +27,7 @@ Altså noget ala:
       - h5
         - Dette er en footer
 
-HUSK - siden skal kunne valideres gennem W3C.
+Brug live-server til at se resultatet (kønt er det ikke), og HUSK - siden skal kunne valideres gennem W3C.
 
 Se eventuelt min [løsning](index.html)
 
