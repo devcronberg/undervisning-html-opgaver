@@ -10,4 +10,38 @@ Her kan du arbejde med lidt tekst og formatering.
   - Opret den første paragraf fra [WikiPedia](https://da.wikipedia.org/wiki/Tim_Berners-Lee)
   - Tilføj en mindre overskrift (h2) "Baggrund og tidlig karriere"
   - Tilføj de to paragrafer fra [WikiPedia](https://da.wikipedia.org/wiki/Tim_Berners-Lee)
-  -  
+  - I den sidste paragraf skal du sørge for, at "Queens College" skal være fed (b), Oxford University med kursiv (i) og "M6800 processor" skal understreges (u).
+    - Husk at formatering i moderne html sider sker ved hjælp af css!
+  - Tilføj en streg (hr - horisontal ruler)
+  - Kopier de to sidste paragrafer, men i stedet for at bruge
+    - p-opmærkning skal du bruge div-opmærkning med en class-attribut med værdien minP
+    - b-opmærkning skal du bruge span-opmærkning med en class-attribut med værdien minFed
+    - i-opmærkning skal du bruge span-opmærkning med en class-attribut med værdien minKursiv
+    - u-opmærkning skal du bruge span-opmærkning med en class-attribut med værdien minUnderstreg
+  - Tilføj nu følgende style-opmærkning nederst i head-opmærkningen
+```css
+<style>
+  .minP {
+    margin-top: 20px;
+  }
+  .minFed {
+    font-weight: bold;
+  }
+  .minKursiv {
+    font-style: italic;
+  }
+  .minUnderstreg {
+    text-decoration: underline;
+  }
+</style>
+```
+
+Det skal se nogenlunde sådan ud:
+
+![](tekst.png)
+
+
+- Du kan eventuelt prøve at lege lidt med css-elementerne - prøv
+  - color: red;
+  - text-decoration: 5px 5px 5px red;
+  - margin: 10px;
