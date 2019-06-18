@@ -9,7 +9,7 @@ Her kan du arbejde med lidt tekst og formatering.
   - Start med en Overskrift (h1) med indholdet "Tim-Berners Lee"
   - Opret den første paragraf fra [WikiPedia](https://da.wikipedia.org/wiki/Tim_Berners-Lee)
   - Tilføj en mindre overskrift (h2) "Baggrund og tidlig karriere"
-  - Tilføj de to paragrafer fra [WikiPedia](https://da.wikipedia.org/wiki/Tim_Berners-Lee)
+  - Tilføj de næste to paragrafer fra [WikiPedia](https://da.wikipedia.org/wiki/Tim_Berners-Lee)
   - I den sidste paragraf skal du sørge for, at "Queens College" skal være fed (b), Oxford University med kursiv (i) og "M6800 processor" skal understreges (u).
     - Husk at formatering i moderne html sider sker ved hjælp af css!
   - Tilføj en streg (hr - horisontal ruler)
@@ -36,10 +36,15 @@ Her kan du arbejde med lidt tekst og formatering.
 </style>
 ```
 
+Husk at siden skal kunne valideres! 
+
+
 Det skal se nogenlunde sådan ud:
 
 ![](tekst.png)
 
+
+Se eventuelt løsning [her](/index.html).
 
 - Du kan eventuelt prøve at lege lidt med css-elementerne - prøv
   - color: red;
