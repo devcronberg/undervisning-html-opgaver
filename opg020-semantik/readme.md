@@ -35,4 +35,4 @@ Se eventuelt min [løsning](index.html)
 
 Skab eventuelt en ny side som ikke benytter header, section, article, footer - men i stedet div-opmærkninger med css-klasser. Sådan tilføjede man semantik tidligere, men de nye opmærkninger giver bedre forståelse og ensartethed.
 
-Se mit forslag til [løsning](index2.html).
+Se mit forslag til [løsning](index1.html).
