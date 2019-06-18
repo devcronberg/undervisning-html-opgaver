@@ -44,7 +44,7 @@ Det skal se nogenlunde sådan ud:
 ![](tekst.png)
 
 
-Se eventuelt løsning [her](/index.html).
+Se eventuelt løsning [her](index.html).
 
 - Du kan eventuelt prøve at lege lidt med css-elementerne - prøv
   - color: red;
