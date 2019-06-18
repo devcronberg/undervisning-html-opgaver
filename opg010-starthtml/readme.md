@@ -65,3 +65,5 @@ Du skal:
 
 - Efter en reload og et klik på paragraffen skulle teksten gerne blive stor
   - Virker det?
+
+Se evt. løsning [her](index.html).
