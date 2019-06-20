@@ -48,5 +48,5 @@ Se eventuelt løsning [her](index.html).
 
 - Du kan eventuelt prøve at lege lidt med css-elementerne - prøv
   - color: red;
-  - text-decoration: 5px 5px 5px red;
+  - text-shadow: 5px 5px 5px red;
   - margin: 10px;
