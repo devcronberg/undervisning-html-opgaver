@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="da">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+  </head>
+  <body>
+    <h1>Indtast data</h1>
+    <form action="http://webdemo.cronberg.dk/posttome" method="post">
+      <table>
+        <tr>
+          <td>Navn</td>
+          <td><input type="text" name="navn" id="navn" /></td>
+        </tr>
+        <tr>
+          <td>Alder</td>
+          <td><input type="number" name="alder" id="alder" /></td>
+        </tr>
+        <tr>
+          <td>Nationalitet</td>
+          <td>
+            <select name="nationalitet" id="nationalitet">
+              <option>Dansk</option>
+              <option>Svensk</option>
+              <option>Norsk</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>Taler dansk</td>
+          <td><input type="checkbox" name="talerDansk" id="talerDansk" /></td>
+        </tr>
+        <tr>
+          <td>Taler engelsk</td>
+          <td><input type="radio" name="talerEngelsk" value="dårligt" checked="on" />Dårligt <input type="radio" value="tilpas" name="talerEngelsk" />Tilpas <input type="radio" name="talerEngelsk" value="godt" />Godt</td>
+        </tr>
+        <tr>
+          <td>
+            <input type="submit" name="submit" value="Send data" />
+          </td>
+        </tr>
+      </table>
+    </form>
+  </body>
+</html>
