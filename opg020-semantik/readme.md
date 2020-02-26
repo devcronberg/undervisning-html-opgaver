@@ -16,11 +16,11 @@ Altså noget ala:
     - header
       - h1
         - Min App
-    - article
-      - section
+    - section
+      - article
         - p
           - Dette er afsnit 1
-      - section
+      - article
         - p
           - Dette er afsnit 2
     - footer
